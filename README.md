@@ -11,6 +11,7 @@ Protein diffusion under the presence of obstacles.
 > Code for protein diffusion in an intracellular environment with obstacles.
 > Binding and unbinding of proteins with obstacles are implemented.
 > Biologically relevant parameters (protein radius, cell radius) are used.
+> Proteins are magnified by 20 times. 
 
 ### Fig3_PDE_Chapman
 
@@ -25,7 +26,7 @@ Effective PDE describing diffusion in the heterogeneous intracellular environmen
 
 
 ### Fig4_ABM_Chapman
-ABM equivalent to effective PDE (Chapman's law)
+Simulating ABM equivalent to effective PDE (Chapman's law)
 1. hetero_diffusion_ellipse_v1.nlogo
 > Simulates effective diffusion following Chapman's law in an elliptic-shaped cell.
 2. hetero_diffusion_various_ER_v1.nlogo
