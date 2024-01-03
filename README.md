@@ -1,4 +1,4 @@
-# heterogeneous_diffusion
+# Heterogeneous_diffusion
 
 
 This is a MATLAB code for the paper "Beyond microtubules: The cellular environment at the endoplasmic reticulum attracts proteins to the nucleus, enabling nuclear transport" by Chae et al. (2023) submitted in Science.
