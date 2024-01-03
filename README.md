@@ -7,7 +7,7 @@ The code simulates the protein diffusion in a heterogeneous intracellular enviro
 ### Fig2_ABM_ER_obstacles
 Protein diffusion under the presence of obstacles.
 
-1. Simulation_feedback.m
+1. ABM_ERbinding.nlogo
 > Code for protein diffusion in an intracellular environment with obstacles.
 > Binding and unbinding of proteins with obstacles are implemented.
 > Biologically relevant parameters (protein radius, cell radius) are used.
