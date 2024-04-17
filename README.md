@@ -1,6 +1,6 @@
 # Heterogeneous_diffusion
 
-This is a MATLAB/Netlogo code for the paper "Beyond microtubules: The cellular environment at the endoplasmic reticulum attracts proteins to the nucleus, enabling nuclear transport" by Chae et al. (2023) submitted in Science.
+This is a MATLAB/Netlogo code for the paper "Beyond microtubules: The cellular environment at the endoplasmic reticulum attracts proteins to the nucleus, enabling nuclear transport" by Chae et al. (2023) submitted in iScience.
 The code simulates the protein diffusion in a heterogeneous intracellular environment with physical interaction with the ER. 
 
 ## Code Description
